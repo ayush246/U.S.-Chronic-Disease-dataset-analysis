@@ -20,4 +20,4 @@ The dataset being analysed contains 10 columns and 519719 columns. The focus is 
 ## LINK TO THE JUPYTER NOTEBOOK:
 [Notebook](https://github.com/ayush246/U.S.-Chronic-Disease-dataset-analysis/blob/master/data_analysis.ipynb)
 
-(Please open the graphs and images in a new tab for clearity and clearence )
+(Please open the graphs and images in a new tab for clearity and readability )
